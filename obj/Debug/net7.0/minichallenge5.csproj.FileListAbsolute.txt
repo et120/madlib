@@ -1,0 +1,42 @@
+C:\Users\Elizabeth\Desktop\CodeStack_Projects\Combine\Week 2\minichallenge5\bin\Debug\net7.0\minichallenge5.exe
+C:\Users\Elizabeth\Desktop\CodeStack_Projects\Combine\Week 2\minichallenge5\bin\Debug\net7.0\minichallenge5.deps.json
+C:\Users\Elizabeth\Desktop\CodeStack_Projects\Combine\Week 2\minichallenge5\bin\Debug\net7.0\minichallenge5.runtimeconfig.json
+C:\Users\Elizabeth\Desktop\CodeStack_Projects\Combine\Week 2\minichallenge5\bin\Debug\net7.0\minichallenge5.dll
+C:\Users\Elizabeth\Desktop\CodeStack_Projects\Combine\Week 2\minichallenge5\bin\Debug\net7.0\minichallenge5.pdb
+C:\Users\Elizabeth\Desktop\CodeStack_Projects\Combine\Week 2\minichallenge5\obj\Debug\net7.0\minichallenge5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elizabeth\Desktop\CodeStack_Projects\Combine\Week 2\minichallenge5\obj\Debug\net7.0\minichallenge5.AssemblyInfoInputs.cache
+C:\Users\Elizabeth\Desktop\CodeStack_Projects\Combine\Week 2\minichallenge5\obj\Debug\net7.0\minichallenge5.AssemblyInfo.cs
+C:\Users\Elizabeth\Desktop\CodeStack_Projects\Combine\Week 2\minichallenge5\obj\Debug\net7.0\minichallenge5.csproj.CoreCompileInputs.cache
+C:\Users\Elizabeth\Desktop\CodeStack_Projects\Combine\Week 2\minichallenge5\obj\Debug\net7.0\minichallenge5.dll
+C:\Users\Elizabeth\Desktop\CodeStack_Projects\Combine\Week 2\minichallenge5\obj\Debug\net7.0\refint\minichallenge5.dll
+C:\Users\Elizabeth\Desktop\CodeStack_Projects\Combine\Week 2\minichallenge5\obj\Debug\net7.0\minichallenge5.pdb
+C:\Users\Elizabeth\Desktop\CodeStack_Projects\Combine\Week 2\minichallenge5\obj\Debug\net7.0\minichallenge5.genruntimeconfig.cache
+C:\Users\Elizabeth\Desktop\CodeStack_Projects\Combine\Week 2\minichallenge5\obj\Debug\net7.0\ref\minichallenge5.dll
+C:\Users\Elizabeth\Desktop\CodeStack_Projects\Combine\Week 2\BorontrotterEMiniCha5\bin\Debug\net7.0\minichallenge5.exe
+C:\Users\Elizabeth\Desktop\CodeStack_Projects\Combine\Week 2\BorontrotterEMiniCha5\bin\Debug\net7.0\minichallenge5.deps.json
+C:\Users\Elizabeth\Desktop\CodeStack_Projects\Combine\Week 2\BorontrotterEMiniCha5\bin\Debug\net7.0\minichallenge5.runtimeconfig.json
+C:\Users\Elizabeth\Desktop\CodeStack_Projects\Combine\Week 2\BorontrotterEMiniCha5\bin\Debug\net7.0\minichallenge5.dll
+C:\Users\Elizabeth\Desktop\CodeStack_Projects\Combine\Week 2\BorontrotterEMiniCha5\bin\Debug\net7.0\minichallenge5.pdb
+C:\Users\Elizabeth\Desktop\CodeStack_Projects\Combine\Week 2\BorontrotterEMiniCha5\obj\Debug\net7.0\minichallenge5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elizabeth\Desktop\CodeStack_Projects\Combine\Week 2\BorontrotterEMiniCha5\obj\Debug\net7.0\minichallenge5.AssemblyInfoInputs.cache
+C:\Users\Elizabeth\Desktop\CodeStack_Projects\Combine\Week 2\BorontrotterEMiniCha5\obj\Debug\net7.0\minichallenge5.AssemblyInfo.cs
+C:\Users\Elizabeth\Desktop\CodeStack_Projects\Combine\Week 2\BorontrotterEMiniCha5\obj\Debug\net7.0\minichallenge5.csproj.CoreCompileInputs.cache
+C:\Users\Elizabeth\Desktop\CodeStack_Projects\Combine\Week 2\BorontrotterEMiniCha5\obj\Debug\net7.0\minichallenge5.dll
+C:\Users\Elizabeth\Desktop\CodeStack_Projects\Combine\Week 2\BorontrotterEMiniCha5\obj\Debug\net7.0\refint\minichallenge5.dll
+C:\Users\Elizabeth\Desktop\CodeStack_Projects\Combine\Week 2\BorontrotterEMiniCha5\obj\Debug\net7.0\minichallenge5.pdb
+C:\Users\Elizabeth\Desktop\CodeStack_Projects\Combine\Week 2\BorontrotterEMiniCha5\obj\Debug\net7.0\minichallenge5.genruntimeconfig.cache
+C:\Users\Elizabeth\Desktop\CodeStack_Projects\Combine\Week 2\BorontrotterEMiniCha5\obj\Debug\net7.0\ref\minichallenge5.dll
+C:\Users\Elizabeth\Desktop\CodeStack_Projects\Combine\Week 2\GitHub Repos 12.12.2023\madlib\bin\Debug\net7.0\minichallenge5.exe
+C:\Users\Elizabeth\Desktop\CodeStack_Projects\Combine\Week 2\GitHub Repos 12.12.2023\madlib\bin\Debug\net7.0\minichallenge5.deps.json
+C:\Users\Elizabeth\Desktop\CodeStack_Projects\Combine\Week 2\GitHub Repos 12.12.2023\madlib\bin\Debug\net7.0\minichallenge5.runtimeconfig.json
+C:\Users\Elizabeth\Desktop\CodeStack_Projects\Combine\Week 2\GitHub Repos 12.12.2023\madlib\bin\Debug\net7.0\minichallenge5.dll
+C:\Users\Elizabeth\Desktop\CodeStack_Projects\Combine\Week 2\GitHub Repos 12.12.2023\madlib\bin\Debug\net7.0\minichallenge5.pdb
+C:\Users\Elizabeth\Desktop\CodeStack_Projects\Combine\Week 2\GitHub Repos 12.12.2023\madlib\obj\Debug\net7.0\minichallenge5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elizabeth\Desktop\CodeStack_Projects\Combine\Week 2\GitHub Repos 12.12.2023\madlib\obj\Debug\net7.0\minichallenge5.AssemblyInfoInputs.cache
+C:\Users\Elizabeth\Desktop\CodeStack_Projects\Combine\Week 2\GitHub Repos 12.12.2023\madlib\obj\Debug\net7.0\minichallenge5.AssemblyInfo.cs
+C:\Users\Elizabeth\Desktop\CodeStack_Projects\Combine\Week 2\GitHub Repos 12.12.2023\madlib\obj\Debug\net7.0\minichallenge5.csproj.CoreCompileInputs.cache
+C:\Users\Elizabeth\Desktop\CodeStack_Projects\Combine\Week 2\GitHub Repos 12.12.2023\madlib\obj\Debug\net7.0\minichallenge5.dll
+C:\Users\Elizabeth\Desktop\CodeStack_Projects\Combine\Week 2\GitHub Repos 12.12.2023\madlib\obj\Debug\net7.0\refint\minichallenge5.dll
+C:\Users\Elizabeth\Desktop\CodeStack_Projects\Combine\Week 2\GitHub Repos 12.12.2023\madlib\obj\Debug\net7.0\minichallenge5.pdb
+C:\Users\Elizabeth\Desktop\CodeStack_Projects\Combine\Week 2\GitHub Repos 12.12.2023\madlib\obj\Debug\net7.0\minichallenge5.genruntimeconfig.cache
+C:\Users\Elizabeth\Desktop\CodeStack_Projects\Combine\Week 2\GitHub Repos 12.12.2023\madlib\obj\Debug\net7.0\ref\minichallenge5.dll
